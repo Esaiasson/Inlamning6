@@ -1,0 +1,26 @@
+.movie{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(195, 195, 195);
+    width: 50%;
+    border-radius: 10px;
+    padding: 1% 5%;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.movie p{
+    margin-right: 10%;
+}
+
+.image_box{
+    display: flex;
+}
+
+
+img{
+    width: 20px;
+    height: 20px;
+    margin-right: 5%;
+}
